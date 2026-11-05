@@ -23,8 +23,8 @@
 | Degree | B.Tech |
 | Branch | Computer Science & Engineering |
 | Graduation | 2027 |
-| College | Your College Name |
-| University | Your University Name |
+| College | Institute Of Engineering And Technology Agra  |
+| University | Dr. Bhim Rao Ambedkar University Agra |
 
 ## 🛠️ Technical Skills
 
@@ -40,6 +40,7 @@
 **Database**
 - SQL
 - MySQL
+- MongoDb
 
 **Web Development**
 - HTML, CSS, JavaScript
@@ -91,8 +92,9 @@
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/vipulyadav557
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your email
+- LinkedIn: https://www.linkedin.com/in/vipul-kumar-yadav-vipul1822/
+- Email: vipulyadav697@gmail.com
+- instagram:https://www.instagram.com/writer_vipulyadav5963_official?obrf=MTFmMjA0djRvbHJtaQ==
 
 ---
 
