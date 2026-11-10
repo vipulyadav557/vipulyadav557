@@ -93,17 +93,19 @@
 - Web Development Internship – CodSoft.
 - Cyber Security & Ethical Hacking Internship.
 
+
 ## 📜 Certifications
 
-Here are some of my professional certificates and achievements.
+Here are my certificates and achievements.
 
-| Certificate | PDF |
+| Certificate | View |
 |---|---|
-| Python Certification | [📄 View Certificate](certificates/python-certificate.pdf) |
-| Data Analytics Certification | [📄 View Certificate](certificates/data-analytics.pdf) |
-| SQL Certification | [📄 View Certificate](certificates/sql-certificate.pdf) |
-| Google Cloud Skills Boost | [📄 View Certificate](certificates/google-cloud.pdf) |
-| Deloitte Data Analytics Job Simulation | [📄 View Certificate](certificates/deloitte-certificate.pdf) |
+| Web Development Certificate | [📄 View Certificate](certificate/certificate%20web%20development.pdf) |
+| Cybersecurity Certificate | [📄 View Certificate](certificate/cybersecurity%20certificate.pdf) |
+| Data Analytics Certificate | [📄 View Certificate](certificate/data%20analytics%20completion_certificate) |
+| Data Analytics Certificate - 2 | [📄 View Certificate](certificate/data%20analytics%20completion_certificate%2022) |
+| C Programming Certificate | [🖼️ View Certificate](certificate/Vipul%20Kumar%20Yadav_C%20Programming.jpg) |
+
 
 ## 📄 My Resume
 
