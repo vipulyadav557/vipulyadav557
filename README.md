@@ -113,9 +113,13 @@ A learning platform for B.Tech students with engineering notes, previous-year qu
 ## 📄 My Resume
 
 <p align="center">
-  <a href="resume/Vipul_Kumar_Yadav_Resume.pdf">
+  <a href="Vipul_Kumar_Yadav_Resume.pdf">
     <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="Vipul_Kumar_Yadav_Resume.pdf">📄 View My Resume (PDF)</a>
 </p>
 
 ## 📊 GitHub Statistics
