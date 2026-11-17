@@ -33,6 +33,7 @@
 - 🌱 Learning SQL, MySQL and Data Analysis
 - 🎯 Aspiring Data Analyst and Python Developer
 - 💡 Passionate about learning new technologies and building real-world projects.
+ 🌐 [Visit My Portfolio](https://vipulyadav557.github.io/)
 
 ## 🎓 Education
 
@@ -108,15 +109,16 @@ Node.js | Express.js | EJS | PostgreSQL | Supabase Storage | HTML | CSS | JavaSc
 - Resume and interview management.
 - Technologies: React, Node.js, MongoDB.
 
+
 ### 🌐 Personal Portfolio
-- Personal portfolio and creative website.
-- Technologies: HTML, CSS, JavaScript, Node.js.
 
-# My personal portfolio showcasing my skills, projects, education and achievements.
+My personal portfolio showcasing my skills, education, projects, and achievements.
 
-🔗 **[Visit My Portfolio](https://vipulyadav557.github.io/)**
+**Tech Stack:** HTML | CSS | JavaScript
 
-💻 **[View Portfolio Source Code](https://github.com/vipulyadav557/vipulyadav557.github.io)**
+🌐 **[Visit Live Portfolio](https://vipulyadav557.github.io/)**
+
+💻 **[View Source Code](https://github.com/vipulyadav557/vipulyadav557.github.io)**
 
 ## 💼 Internships
 
