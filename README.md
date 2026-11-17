@@ -75,28 +75,27 @@ A learning platform for B.Tech students with engineering notes, previous-year qu
 
 🌐 **[Visit Live Website](https://dbrau-engineering-notes.onrender.com)** | 💻 **[View Source Code](https://github.com/vipulyadav557/dbrau-engineering-notes)**
 
+
 ### ✍️ AVS Writer – Multi-Author Literary Platform
 
-A multi-author literary platform where writers can publish
-Poetry, Shayari, Ghazals, and Books.
+A multi-author literary platform where writers can publish Poetry, Shayari, Ghazals, and Books.
 
-**Features:**
+**Key Features:**
 - User Registration and Login
 - Role-Based Authentication
-- Writer Dashboard
-- Admin Dashboard
+- Writer Dashboard and Admin Dashboard
 - Poetry, Shayari, Ghazal and Book Publishing
 - Book PDF and Cover Upload
 - Writer Profiles and Contact Management
 - Responsive Design
 
 **Tech Stack:**
-Node.js | Express.js | EJS | PostgreSQL |
-Supabase Storage | HTML | CSS | JavaScript
+Node.js | Express.js | EJS | PostgreSQL | Supabase Storage | HTML | CSS | JavaScript
 
-**[Visit Live Website](https://avs-writer.onrender.com)**
+🌐 **Live Demo:** [AVS Writer](https://avs-writer.onrender.com)
 
 **GitHub Repository:** Private
+
 
 
 ### 📊 Data Visualization
