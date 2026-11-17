@@ -94,7 +94,7 @@ Poetry, Shayari, Ghazals, and Books.
 Node.js | Express.js | EJS | PostgreSQL |
 Supabase Storage | HTML | CSS | JavaScript
 
-**Live Demo:** https://avs-writer.onrender.com
+**[Visit Live Website](https://avs-writer.onrender.com)**
 
 **GitHub Repository:** Private
 
